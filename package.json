@@ -1,0 +1,6 @@
+{
+    "name": "App Name",
+    "main": "index.js",
+    "version": "1.0",
+    "private": true
+}

@@ -1,1 +1,1 @@
-# node-struct
+# Basic NodeJS application structure
